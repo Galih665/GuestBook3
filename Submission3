@@ -1,1 +1,11 @@
-
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+README.md
+artisan
+composer.json
+composer.lock
+package.json
+phpunit.xml
+vite.config.js
